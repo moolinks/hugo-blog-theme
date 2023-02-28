@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Moolinkyang (吳恩達)
+title: Moolink Yang (楊馥寧)🐏
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: SoftWare Engineer Master student
 
 # Status emoji
-status:
+status: Working hard
   icon: ☕️
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: XJTU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
