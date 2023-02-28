@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Moolinkyang (楊馥寧)
+title: Moolinkyang (杨馥宁)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 軟件工程碩士在讀
+role: software
 
 # Status emoji
 status:
@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'moolinkyang@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
